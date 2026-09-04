@@ -1,2 +1,4 @@
 просто так
-print("Hello Pyton")
+```python
+def hello():
+    print("Hello!")
