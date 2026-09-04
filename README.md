@@ -1,3 +1,4 @@
 покет
+```python
 def hello():
-print("Hello!")
+    print("Hello!")
