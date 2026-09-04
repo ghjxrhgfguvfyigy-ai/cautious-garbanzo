@@ -1,3 +1,3 @@
 покет
 def hello():
-    print("Hello!")
+print("Hello!")
